@@ -43,7 +43,27 @@ ModelImporter:
     4300010: Sphere.004
     10800000: Sun
     2186277476908879412: ImportLogs
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100004, guid: 5b473bbe9f4df6943856e2cc03f03a93, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orbit
+    second: {fileID: 2100004, guid: bfeadcfe19b54464e8d00f2dd98bd914, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Protones
+    second: {fileID: 2100004, guid: 5b473bbe9f4df6943856e2cc03f03a93, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Protones.001
+    second: {fileID: 2100004, guid: 5b473bbe9f4df6943856e2cc03f03a93, type: 3}
   materials:
     importMaterials: 1
     materialName: 0
