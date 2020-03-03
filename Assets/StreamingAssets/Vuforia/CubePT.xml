@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="23VVanadium" size="100.000000 100.000000" />
+    <ImageTarget name="22TiTitanium" size="100.000000 100.000000" />
+    <ImageTarget name="21ScScandium" size="100.000000 100.000000" />
     <ImageTarget name="22TiTitaniumTarget" size="100.000000 100.000000" />
     <ImageTarget name="21ScEscandioTarget" size="100.000000 100.000000" />
-    <ImageTarget name="21ScScandium" size="100.000000 99.907318" />
-    <ImageTarget name="22TiTitanium" size="100.000000 99.907318" />
   </Tracking>
 </QCARConfig>
