@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-D:/Github/cubept/CubePT/cubept.apk
+D:/Github/CubePT/cubept.apk
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
